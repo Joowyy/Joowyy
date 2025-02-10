@@ -44,13 +44,13 @@
   💬 Pregúntame sobre <b>tecnología, programación e inteligencia artificial</b>.<br>
   ⚡ Dato curioso: <i>Me encanta la música y el freestyle</i>.
 </p>
-
+<br>
 <p align="center">
   <i>"La creatividad es inteligencia divirtiéndose." - Albert Einstein</i>
   <br>
 </p>
-
-## 📫 ¡Conéctate conmigo!
+<br>
+<h1 align="center">📫 ¡Conéctate conmigo!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/joel-sanchez-17b296314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>

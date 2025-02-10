@@ -37,8 +37,6 @@
   Descripción breve del proyecto y lo que hace.
 -->
 
----
-
 <h1 align="center">🚀 Sobre mí</h1>
 <p align="center">
   🌱 Aprendiendo <b>Java, MySQL y Python</b>.<br>
@@ -51,8 +49,6 @@
   <i>"La creatividad es inteligencia divirtiéndose." - Albert Einstein</i>
   <br>
 </p>
-
----
 
 ## 📫 ¡Conéctate conmigo!
 <p align="center">

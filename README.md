@@ -16,8 +16,6 @@
   <img src="https://github.com/Joowyy/Joowyy/blob/main/download-4974_256.gif" width="12%">
 </p>
 
-
-
 <h1 align="center">📊 Estadísticas de GitHub</h1>
 
 <p align="center">
@@ -25,22 +23,22 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=gruvbox" alt="GitHub Stats">
 </p>
-
 <!--
-
 ## 🚀 Proyectos Destacados
-
 <p align="center">
-  <b>🔥 Proyecto 1:</b> <a href="https://github.com/tuusuario/proyecto1">Nombre del Proyecto</a><br>
-  Descripción breve del proyecto y lo que hace.
+  <b>🔥 Proyecto 1:</b> <a href="https://github.com/Joowyy/RuletaJava/tree/master">Ruleta Básica Java</a><br>
+  <br>
+  Consta de 5 paneles, los cuales necesitaran una frase y pista para los distintos jugadores.<br>
+  Los jugadoros tienen que adivinar la palabra y acumular dinero, e intentar esquivar la quiebra.
   <br><br>
+</p>
   <b>💡 Proyecto 2:</b> <a href="https://github.com/tuusuario/proyecto2">Nombre del Proyecto</a><br>
   Descripción breve del proyecto y lo que hace.
   <br><br>
   <b>🎯 Proyecto 3:</b> <a href="https://github.com/tuusuario/proyecto3">Nombre del Proyecto</a><br>
   Descripción breve del proyecto y lo que hace.
-</p>
 -->
+
 ---
 
 <h1 align="center">🚀 Sobre mí</h1>

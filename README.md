@@ -19,8 +19,6 @@
 <h1 align="center">📊 Estadísticas de GitHub</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=gruvbox" alt="Top Langs">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=gruvbox" alt="GitHub Stats">
 </p>
 <!--

@@ -1,4 +1,6 @@
-## Hi there 👋
+## ¡Hola! Soy Joel Sánchez 👋
+
+Estudiante en IES Las Salinas
 
 <!--
 **Joowyy/Joowyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

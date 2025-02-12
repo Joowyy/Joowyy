@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Joowyy/Joowyy/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner%20(1).png" alt="Joel Sánchez Banner" height=410px">
+  <img src="https://github.com/Joowyy/Joowyy/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner%20(1).png" alt="Joel Sánchez Banner" height=360px">
 </p>
 
 <br>

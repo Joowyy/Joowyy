@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Joowyy/Joowyy/blob/main/DALL·E%202025-02-10%2023.33.06%20-%20A%20technology-themed%20banner%20with%20a%20deep%2C%20immersive%20computer%20aesthetic.%20The%20background%20is%20dark%2C%20resembling%20a%20futuristic%20digital%20matrix%20with%20glowing%20blue(1)(1).png" alt="Joel Sánchez Banner">
+  <img src="https://github.com/Joowyy/Joowyy/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner%20(1).png" alt="Joel Sánchez Banner">
 </p>
 
 <br>

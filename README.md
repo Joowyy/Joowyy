@@ -5,7 +5,7 @@
 <br>
 
 <p align="center" font-size= "20px" font-weight= "bold">
-  🎓 Estudiante en <b>IES Las Salinas</b>  <br>
+  🎓 Estudiando actualmente el Grado Superior DAM en <b>IES Las Salinas</b>  <br>
   💻 Apasionado por la tecnología y la programación  <br>
   🚀 Explorando el mundo del desarrollo de aplicaciones y la inteligencia artificial  
 </p>

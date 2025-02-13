@@ -16,11 +16,18 @@
   <img src="https://github.com/Joowyy/Joowyy/blob/main/download-4974_256.gif" width="12%">
 </p>
 
-<h1 align="center">📊 Estadísticas de GitHub</h1>
+<h1 align="center">🚀 Lenguajes y Tecnologías</h1>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=gruvbox" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+
 <!--
 ## 🚀 Proyectos Destacados
 <p align="center">
@@ -39,7 +46,7 @@
 
 <h1 align="center">🚀 Sobre mí</h1>
 <p align="center">
-  🌱 Aprendiendo <b>Java, MySQL y Python</b>.<br>
+  🌱 Profundizando sobre todo en <b>Java y Git</b>.<br>
   🤝 Busco colaborar en el <b>Desarrollo de Aplicaciones</b>.<br>
   💬 Pregúntame sobre <b>tecnología, programación e inteligencia artificial</b>.<br>
   ⚡ Dato curioso: <i>Me encanta la música y el freestyle</i>.
